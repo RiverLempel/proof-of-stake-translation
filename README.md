@@ -7,7 +7,9 @@
 # menu
 
 
+## 引言
 * [引言](./content/introduction.md)
+
 ## 预挖矿
 
 ## part1: premining
@@ -27,3 +29,9 @@
 * 圣诞节特别节目
 
 ## part3: proof of stake
+
+
+## 附录
+* 以太坊白皮书：一种下一代的智能合约和去中心化应用平台
+* 术语汇编
+* 关于作者
