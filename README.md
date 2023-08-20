@@ -14,7 +14,7 @@
 * [以太坊：一种下一代的加密货币和去中心化应用平台](./content/1.2-ethereum.md)
 * [在贮藏室的自我强制执行合同和行为法律](./content/1.3-factum-law.md)
 * [在筒仓中](./content/1.4-on-silos.md)
-* 超级理性和去中心化自治组织
+* [超级理性和去中心化自治组织](./content/1.5-superrationality-and-daos.md)
 * 区块链技术的价值
 
 ## 第二部分：工作量证明
