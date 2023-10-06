@@ -15,7 +15,7 @@
 * [在贮藏室的自我强制执行合同和行为法律](./content/1.3-factum-law.md)
 * [在筒仓中](./content/1.4-on-silos.md)
 * [超级理性和去中心化自治组织](./content/1.5-superrationality-and-daos.md)
-* 区块链技术的价值
+* [区块链技术的价值](./content/1.6-the-value-of-blockchain-technology.md)
 
 ## 第二部分：工作量证明
 * 为什么加密经济学家和X-Risk研究者应该更多倾听对方
