@@ -18,7 +18,7 @@
 * [区块链技术的价值](./content/1.6-the-value-of-blockchain-technology.md)
 
 ## 第二部分：工作量证明
-* 为什么加密经济学家和X-Risk研究者应该更多倾听对方
+* [为什么加密经济学家和X-Risk研究者应该更多倾听对方](./content/2.1-why-should-listen.md)
 * 权益证明的设计哲学
 * 区块链治理的笔记
 * 密谋
